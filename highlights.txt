@@ -1,0 +1,24 @@
+Worklflow :
+
+1. Define requirements (Functional, non-functional)
+2. Define Classes ( Classes diagram , variables, functions )
+3. Configure Classes ( Constructors, Getters , Setters, Helpers, Functions )
+4. Configure the main App
+5. Build UI
+
+User Story :
+EazyBus is a Trip Company with 100 Buses, 50 Lines and 1000 Trips foundation.
+The Company needs a desktop application for organizing the company data.
+The main required features for application :
+1. Build company database +
+2. Add bus to DB +
+3. Remove bus from DB +
+4. Add Line to DB +
+5. Remove Line from DB +
+6. Add Trip to DB +
+7. Remove Trip from DB +
+8. Print buses info +
+9. Print lines info +
+10. Print trips info +
+11. Write Company DB info to excel file
+12. Build UI
